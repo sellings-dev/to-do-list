@@ -2,7 +2,11 @@
 
 ## Commands
 
-### `npm run start`
+### `npm i`
+
+To install dependencies
+
+### `npm start`
 
 To start the project
 
